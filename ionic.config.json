@@ -1,0 +1,7 @@
+{
+  "name": "h-mundo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
